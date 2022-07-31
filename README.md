@@ -7,3 +7,5 @@ Second approach, DEGURBA use small unit classification and divide region into th
 
 This code is implementation of DEGURBA Methods from "Applying the Degree of Urbanisation, A METHODOLOGICAL MANUAL TO DEFINE CITIES, TOWNS AND RURAL AREAS FOR INTERNATIONAL COMPARISONS"
 published by EUROSTAT, 2021.
+
+This code is coded by Achmad Fauzi Bagus Firmansyah. Contact me in achm.firmansyah@gmail.com
